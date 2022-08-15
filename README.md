@@ -69,3 +69,8 @@ Resultado: [["A","C"],["A","D"],["B","C"],["B","D"]]
 Resultado: [["A","C","E"],["A","C","F"],["A","D","E"],["A","D","F"],["B","C","E"],["B","C","F"],["B","D","E"],["B","D","F"]]
 
 * Na solução há exemplos chamados "ax", para usar um exemplo pronto descomente-o se estiver comentado e comente os outros se n estiverem. Para usar exemplo próprio comente todos os "ax" que não estejam comentados e crie seu próprio "ax" seguindo as regras deste arquivo.
+
+Boas práticas na entrada:
+
+* É proibido pastas redundantes, isto é, pastas que contém apenas uma pasta
+* É proibido pastas vazias
